@@ -4,7 +4,7 @@
 
 Interested in Learning a Demo of Fetch using a cool project? This Repo is for you.
 
-###### **Here is the link to the [live demo](https://smilegupta.github.io/portfolio-smilegupta/)**
+###### **Here is the link to the [live demo](https://smilegupta.github.io/dad-jokes/)**
 
 
 ## Technology Stack Used
